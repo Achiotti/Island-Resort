@@ -1,14 +1,14 @@
 h1 {
-    color: Darkred;
+    color: blue;
     Text-align: center
 }
 
 h2{
-    Color: violet;
+    Color: rgb(91, 201, 245);
     Text-align: center;
     font-style: italic;
 }
 
 body{
-    Background-color: lightgray;
+    Background-color: rgb(73, 80, 40);
 }
